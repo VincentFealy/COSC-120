@@ -1,3 +1,3 @@
 # COSC-120
-Computer Science I
-Done is Code Blocks
+Computer Science I                                                                        
+Done in Code Blocks
