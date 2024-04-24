@@ -1,0 +1,40 @@
+#include <iostream>
+#include <iomanip>
+using namespace std;
+
+// Fill in code to declare a structure named rectangle which has
+// members length, width, area, and perimeter all of which are floats
+struct Rectangle
+{
+    float length;
+    float width;
+    float area;
+    float perimeter
+};
+int main()
+{
+
+    Rectangle box;
+    cout << "Enter the length of a rectangle: ";
+
+
+    cin >> box.length;
+    cout << "Enter the width of a rectangle: ";
+
+
+    cin >> box.width;
+    cout << endl << endl;
+
+
+    box.area = box.width * box.length;
+
+    box.perimeter = box.width + box.width + box.length + box.length;
+    cout << fixed << showpoint << setprecision(2);
+
+
+    cout << "The area of the rectangle is: " << box.area << endl;
+
+    cout << "The perimeter of the rectangle is: " << box.perimeter << endl;
+
+    return 0;
+}

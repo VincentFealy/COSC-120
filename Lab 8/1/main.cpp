@@ -1,0 +1,37 @@
+struct taxpayer
+{
+    float taxRate;
+    float income;
+    float taxes;
+};
+
+int main()
+{
+    taxpayer citizen[5];
+
+    cout << fixed << showpoint << setprecision(2);
+
+    cout << "Please enter the annual income and tax rate for 5 tax payers:";
+    cout << endl << endl << endl;
+
+    for (int count = 0; count < 5; count++)
+    {
+        cout << "Enter this year's income for tax payer " << (count + 1);
+        cout << ": ";
+        cin >> citizen[count].taxRate;
+
+        cout << "Enter the tax rate for tax payer # " << (count + 1);
+        cout << ": ";/**<  */
+        cin >> citizen[count].taxes = citizen[count].income * citizen[count].taxRate;
+
+        cout << endl;
+    }
+    cout << "Taxes due for this year: " << endl << endl;
+
+    for (short index =0; index<5; index++)
+    {
+        cout << "Tax Payer # " << (index + 1) << ": " << "$ " << citizen[index].taxes << endl;
+    }
+
+    return 0;
+}
