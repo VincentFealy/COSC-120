@@ -8,8 +8,6 @@ This course focused on developing fundamental programming and problem-solving sk
 
 # Projects and Assignments
 
-This repository includes coursework such as:
-
 Hello World
 Vending Machine
 Programming Labs
