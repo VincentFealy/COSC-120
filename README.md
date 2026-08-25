@@ -1,4 +1,4 @@
-COSC-120: Computer Science I
+# COSC-120: Computer Science I
 
 This repository contains labs, programming assignments, and projects completed for COSC-120: Computer Science I at Salisbury University.
 
