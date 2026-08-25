@@ -6,7 +6,7 @@ Overview
 
 This course focused on developing fundamental programming and problem-solving skills through a series of hands-on labs and projects. The assignments in this repository explore core computer science concepts and progressively introduce more complex programming techniques.
 
-Projects and Assignments
+# Projects and Assignments
 
 This repository includes coursework such as:
 
@@ -19,7 +19,7 @@ Selection Sort Practice
 Project 1
 Concepts Explored
 
-Throughout this course, I developed experience with:
+# In this course, I developed experience with:
 
 Fundamental programming concepts
 Variables and data types
