@@ -8,14 +8,14 @@ This course focused on developing fundamental programming and problem-solving sk
 
 # Projects and Assignments
 
-Hello World
-Vending Machine
-Programming Labs
-Combinations
-Phonebook
-Selection Sort Practice
-Project 1
-Concepts Explored
+- Hello World
+- Vending Machine
+- Programming Labs
+- Combinations
+- Phonebook
+- Selection Sort Practice
+- Project 1
+- Concepts Explored
 
 # In this course, I developed experience with:
 
